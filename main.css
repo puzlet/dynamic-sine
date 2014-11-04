@@ -1,0 +1,30 @@
+#graph_container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+#numericjs {
+    margin-left: 30px;
+    color: #5a5;
+}
+
+#flot {
+    width: 600px;
+    height: 300px;
+}
+
+.slider {
+    position: relative;
+    display: inline-block;
+    width: 200px;    
+}
+
+#slider_freq {
+    left: 80px;
+}
+
+#slider_noise {
+    left: 180px;
+}
+
+
